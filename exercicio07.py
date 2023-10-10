@@ -1,0 +1,5 @@
+nome = input("Digite seu nome e sobrenome: ")
+print(nome.upper())
+print(nome.lower())
+print(nome.title())
+print(nome.swapcase())
